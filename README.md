@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend (Spring Boot)
+# 🛒 E-Commerce Store (Spring Boot) - Backend
 
 ## 🚀 Tech Stack
 
